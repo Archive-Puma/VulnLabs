@@ -31,6 +31,8 @@ This endpoint can be triggered through the following menu: Visitor List > Action
 
 ## ℹ️ Information
 
+**Entrypoint**: http://localhost/php-sqlite-vms/
+
 **Default credentials**:
 
 | Username | Password |
