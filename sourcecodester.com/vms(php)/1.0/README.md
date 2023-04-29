@@ -1,6 +1,7 @@
-# Exploit Title: VMS(php) Visitor Management System 1.0 - Authenticated Blind SQL Injection (View Visitor)
-
 <div align="center">
+    <h1>VMS(php) Visitor Management System</h1>
+    <h3>Authenticated Blind SQL Injection (View Visitor)</h3>
+    <br />
     <!-- Vendor -->
     <a href="https://www.sourcecodester.com/">
         <img src="https://img.shields.io/badge/vendor-sourcecodester.com-8DD6F9?style=for-the-badge&logo=webpack" alt="Vendor: sourcecodester.com" title="Vendor: sourcecodester.com" />
